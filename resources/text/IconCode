@@ -1,0 +1,4 @@
+g.setXORMode(new Color(0xFF0000));
+g.fillRect(10, 10, 100, 100);
+g.fillRect(50, 50, 100, 100);
+g.setPaintMode();
